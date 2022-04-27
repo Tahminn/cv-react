@@ -14,7 +14,7 @@ function Experience() {
                 </ul>
                 <ul className="talent">
                     <li>Jquery</li>
-                    <li>PHP</li>
+                    <li>C#</li>
                     <li className="last">CVS / Subversion</li>
                 </ul>
                 <ul className="talent">

@@ -7,9 +7,9 @@ function Education() {
                 <h2>Education</h2>
             </div>
             <div className="yui-u">
-                <h2>Indiana University - Bloomington, Indiana</h2>
+                <h2>KREMS, ATMU</h2>
                 <h3>
-                    Dual Major, Economics and English — <strong>4.0 GPA</strong>{" "}
+                    Tourism — <strong>0.0 GPA</strong> 
                 </h3>
             </div>
         </div>

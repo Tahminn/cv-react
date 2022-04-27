@@ -8,21 +8,21 @@ function Skills() {
             </div>
             <div className="yui-u">
                 <div className="talent">
-                    <h2>Web Design</h2>
+                    <h2>C#</h2>
                     <p>
                         Assertively exploit wireless initiatives rather than
-                        synergistic core competencies.{" "}
+                        synergistic core competencies. 
                     </p>
                 </div>
                 <div className="talent">
-                    <h2>Interface Design</h2>
+                    <h2>ASP.NET</h2>
                     <p>
                         Credibly streamline mission-critical value with
                         multifunctional functionalities.{" "}
                     </p>
                 </div>
                 <div className="talent">
-                    <h2>Project Direction</h2>
+                    <h2>REACT</h2>
                     <p>
                         Proven ability to lead and manage a wide variety of design and
                         development projects in team and independent situations.
